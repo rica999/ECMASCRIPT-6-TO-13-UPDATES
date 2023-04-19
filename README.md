@@ -1,5 +1,5 @@
 # ECMASCRIPT-6-TO-13-UPDATES
-Novedades de cada versión de ECMASCRIPT a partir de ES6 (Junio 2015)
+Novedades de cada versión de ECMASCRIPT a partir de ES6 (Junio 2015) hasta ES13 (Junio 2022).
 
 Cada innovación con sus respectivos ejemplos y explicaciones.
 
