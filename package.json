@@ -1,0 +1,19 @@
+{
+  "name": "7.-ecmascript-historia-y-versiones-js",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D\t\u001b[D\u001b[DCódigo de versiones ecmascript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Ricardo Chavez <ricardochavezvilcapoma@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
